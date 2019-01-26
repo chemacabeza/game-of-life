@@ -72,6 +72,7 @@
                 <version>2.9</version>
                 <configuration>
                     <skip>false</skip>
+                    <useSystemClassLoader>false</useSystemClassLoader>
                 </configuration>
             </plugin>
             <plugin>
